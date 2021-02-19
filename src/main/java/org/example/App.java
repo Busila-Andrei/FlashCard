@@ -1,6 +1,6 @@
 package org.example;
 
-import service.Menu;
+import org.example.service.Menu;
 import java.io.IOException;
 
 /**

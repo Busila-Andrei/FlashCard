@@ -1,7 +1,7 @@
-package service;
+package org.example.service;
 
-import domain.FlashCard;
-import utils.ScannerUtils;
+import org.example.domain.FlashCard;
+import org.example.utils.ScannerUtils;
 
 import java.io.File;
 import java.io.FileNotFoundException;
